@@ -1,0 +1,167 @@
+I
+love
+computer
+network
+Academic Honesty Policy
+You  are  permitted  and   encouraged  to  help each other through Piazza's web board. This only means
+that  you  can  discuss  and understand concepts learnt in class. However, you may NOT share  source
+code  or  hard  copies  of  source  code. Refrain from sharing any material that could cause your source
+code  to  APPEAR TO BE similar to another student's source code enrolled in this or previous years.
+Refrain  from  getting   any  code  off  the  Internet.  Cheating  will be dealt with severely. Cheaters will be
+penalized. Source code should be yours and yours only. Do not cheat.
+
+
+PA1 grades
+10/29/14 6:28 PM
+
+Hi all,
+
+
+
+We have released your scores for PA1. You can find them under the gradebook section of courseworks.
+If you have any queries, please make sure you contact the TAs as soon as possible.
+
+
+
+The TAs who have corrected your programming assignments would have signed his/her name in the comments section.
+If you have been asked to come for a demo or if you have any questions regarding the points you have received,
+kindly contact only the corresponding TA during their office hours. If you cannot make it to their office hours,
+drop in an email asking for an alternative arrangement.
+
+Programming Assignment 2
+
+We have released the 2nd programming assignment - "Simple TCP-like transport-layer protocol". The details and
+requirements of this assignment can be found here - CSEE4119_Programming_Assignment_2.pdf
+The binaries of the proxy to be used and the README for the same can be found here - Proxy.zip.
+
+
+You are required to adhere to the specifications mentioned regarding submissions strictly. The submissions should be made on courseworks under Assignments -> Programming Assignment 2 by 11:55 pm, November 6th (Thursday).
+
+ Good luck with the assignment!
+
+
+
+
+Jump to Navigation
+Columbia University Information Technology
+Stay Safe Online
+
+Use different passwords for email & social networks. Get more tips >>
+ENROLL IN THE EMERGENCY TEXT MESSAGE SYSTEM
+
+Securely register now. Students: SSOL; faculty & staff: myColumbia.
+1
+2
+3
+Traveling Outside the US
+
+
+
+All of the four major wireless carriers in the U.S. can provide international roaming in some parts of the world, but some are more limited in where they can offer service based upon the technology they use. In the U.S. wireless operators use two main cellular technologies: GSM and CDMA.
+
+    What is GSM?
+    What is CDMA?
+    Do I need to call CUIT Service Desk - 212-854-1919 before I leave to activate international calling?
+    How much will it cost to make phone calls in another country?
+    How much will it cost to send/receive text messages in another country?
+    How much will it cost to send/receive emails and browse the web in another country?
+    Things to Remember
+
+
+What is GSM?
+
+GSM, or global system for mobile communications, is used throughout much of the world, including in Europe (where it's the standard), Canada, Latin America, the Caribbean, Africa, Australia, and New Zealand, as well as much of Asia and the Middle East. In the U.S., AT&T and T-Mobile USA operate GSM networks. As a result AT&T and T-Mobile have the most extensive networks abroad. AT&T has roaming agreements in more than 190 countries throughout the world. Its tri-band and quad-band phones will work in most parts of the world, except in Japan and South Korea, where you'll need a special phone that either supports CDMA or uses the 3G standard UMTS in the 2100 MHz frequency band.
+
+GSM carriers may be the best choice for globe-trotters, especially those traveling in Europe, but not every GSM phone works in every country. The reason is that different regions of the world use different frequency bands to transmit GSM signals. In the U.S., GSM operators only use the 850 MHz and 1900 MHz frequency bands. In Europe they use the 900 MHz and 1800 MHz frequency bands. Japan and South Korea use the 2100 MHz band. So to make sure you're covered in most regions, you should either get a triband (GSM 900/1800/1900) or quadband (GSM 850/900/1800/1900) phone.
+
+Travelers in Japan and South Korea will likely need a new phone, since wireless operators in Japan and South Korea do not use GSM. That said, carriers in Japan and South Korea are using the same 3G standard that GSM carriers are using, which means that phones supporting a technology called UMTS or Universal Mobile Telecommunications System using the 2100 MHz spectrum band will also work in Japan and South Korea.
+
+What is CDMA?
+
+CDMA, which stands for code division multiple access, has less worldwide coverage than GSM. The U.S. is one of the biggest markets for CDMA. This is the technology that is used by the largest operator in the U.S.: Verizon Wireless. Sprint's PCS network also uses CDMA. Verizon Wireless has roaming agreements with more than 40 countries for its CDMA service and more than 220 countries that use GSM. Verizon subscribers can use their CDMA handsets to roam in China and Taiwan, Guam, Guatemala, Indonesia, Vietnam, Israel, India, New Zealand, Thailand, Mexico, South Korea, much of South America, and a few Caribbean islands.
+
+Do I need to call the CUIT Service Desk 212-854-1919 before I leave to activate international calling?
+
+Yes, you should call the CUIT Service Desk at 212-854-1919 to make sure your phone is ready to make and receive calls in a foreign country. You can also check with your carrier for the exact rates in the countries where you'll be traveling.
+
+ATT International Information
+Verizon International Information
+
+How much will it cost to make phone calls in another country?
+
+This will depend on which carrier you have service with here in the States. Calls will be charged on a per-minute basis. For subscribers with U.S. cell phone service, domestic voice, text message or data plans do not apply when traveling in another country. Email is typically the cheapest way to communicate with people in the country where you're traveling and also with your family and friends back home in the U.S.
+
+AT&T offers customers a World Traveler plan, which offers discounts on most roaming rates in more than 195 countries. The cost is $5.99 a month and users can sign up for the service for just one month if they are going on a vacation, and they can cancel the service when they return home. Without World Traveler, AT&T charges per-minute roaming rates that vary between $0.59 cents per minute and $3.99 per minute, depending on the country and roaming carrier used. For specific rates or more information please visit the ATT international information webpage
+
+Verizon Wireless offers a global travelers plan that offers discounted rates on voice calls in over 150 countries. Global Traveler is included with your international data plan ($64.99). Regular voice charges range from $0.69 cents to $2.99 per minute for roaming calls. For more information about Verizon Wireless international roaming fees and services go to this website. For specific rates or more information please visit the Verizon international information webpage
+
+How much will it cost to send/receive text messages in another country?
+
+It cost ATT users $0.50 cents to send a text message and receive text messages in a foreign country, but receiving text messages from someone in the U.S. is free. Sending multimedia messages (MMS) is $1.30 per message, and receiving MMS messages from the U.S. is free.
+
+If you are a Verizon user traveling within the U.S., Canada, U.S. Virgin Islands and Puerto Rico text messages sent to non-U.S. phone numbers of participating carriers will not be applied against any monthly text messaging allowance and are charged $0.25 per message sent and $0.20 per message received.
+
+Text messages sent to phone numbers in Canada, Mexico and Puerto Rico are charged domestic rates per your plan.
+While traveling outside the U.S., Canada, U.S. Virgin Islands and Puerto Rico the text messaging rates are $0.50 per message sent and $0.05 per message received. *These text messages are not applied against any monthly text messaging allowance.
+
+How much will it cost to send/receive emails and browse the web in another country?
+
+Travelers need to be especially careful of data charges. Without an international data plan, the rates are far more expensive than for roaming voice calls and text messages. Even with an international data plan, pc cards (wireless modems) can still be quite a bit more expensive than using internet access provided by many hotels. If you are traveling within the U.S., Puerto Rico, and the U.S. Virgin Islands, you DO NOT need the international data plan.
+
+ATT and Verizon offer an unlimited international data plan for $64.99/month. If you are a Verizon user, please keep in mind that only the BlackBerry Tour, BlackBerry Storm, and BlackBerry 8830 World Edition work internationally. Users can sign up for the service for just one month if they are going on a vacation, and they can cancel the service when they return home. If you travel often we recommend you keep the international data plan since it includes unlimited domestic data.
+
+For pc cards (wireless modems) the insternational plan covers either 100MB or 200MB of use depending on the selected plan and only within specific countries. All other use is charged per MB and can become quite expensive very quickly. For example, if you have a pc card with the 100MB international plan and travel to Spain, and use 1GB of data, only the first 100MB was included in the $139.99 monthly international plan. Because Spain is a select country the remaining 900MB is charged at $5/MB, meaning you are responsible for $4,500. This might seem like an extreme example, but it highlights actual past usage of wireless modems. In some countries, the per MB charge is $20, making the overall cost much more expensive.
+
+Without an international data plan or outside select countries, ATT users pay $.0195/KB, $20/MB. The delivery of Visual Voicemail messages will be charged at international data rate. For Verizon users the overage rate is $0.025/KB, $25/MB.
+
+Please Note:
+1 MB = 1024KB
+$0.0195/KB = about $20/MB
+
+Global Access countries
+Data Connect Global Select countries
+
+Things to Remember
+
+    Calls to voice mail and the operator will incur all applicable fees, but calls to your carrier's customer service are typically free. Verizon (908-559-4899), ATT (916-843-4685)
+    The method for making local calls in each country will vary, so make sure you know how to do so.
+    Remember that emergency-dial numbers will be different from 911.
+    When in a foreign country, you will have to use the appropriate country and area codes for calls back to the States or a third country. To call the U.S. dial 001.
+    Your phone should automatically search for and select a network in each country, but you may have to do this yourself through your phone's menus.
+    You also can try turning your phone off and on again.
+    Free mobile-to-mobile minutes on the same carrier usually are not offered outside the United States.
+    When roaming, the name of the local carrier will appear on your phone's display.
+    Not all data features will work the same way when you're abroad.
+    Don't forget an electrical-plug adapter for your charger.
+
+    myUNI
+    Service Desk
+    myColumbia
+    FAQ
+    A-Z Services
+    About Us
+    Give Us Feedback
+
+    Computing Support
+    About CUIT
+    CUIT Email Services
+    CUIT Public Computing Facilities
+    IT Policies
+    IT Security Resources
+    Manage my UNI
+    Security Awareness Training
+    Software and Downloads
+
+    Text Size
+    a+
+    a-
+
+Other Columbia IT Groups
+Webmaster
+Columbia University Information Technology | 615 West 131st St., Floor 5, New York, NY 10027 | 212-854-1919 | askcuit@columbia.edu
+Columbia University in the City of New York
+
+    Email
+
+More Services for Students, Faculty & Staff
+
